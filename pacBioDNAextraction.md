@@ -1,4 +1,6 @@
-# Promega's Wizard® Genomic DNA Purification Kit
+# DNA extraction protocol for yeast PacBio sequencing
+
+## Promega's Wizard® Genomic DNA Purification Kit
 
 [Wizard® Genomic DNA Purification Kit](https://www.promega.com/products/dna-purification-quantitation/genomic-dna-purification/wizard-genomic-dna-purification-kit/) (Catalog number: A1125)
 
