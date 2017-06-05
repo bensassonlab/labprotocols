@@ -4,7 +4,7 @@
 
 [Wizard® Genomic DNA Purification Kit](https://www.promega.com/products/dna-purification-quantitation/genomic-dna-purification/wizard-genomic-dna-purification-kit/) (Catalog number: A1125)
 
-Note: This is a very detailed protocol because it is actually just our standard lab protocol x 4 with a couple of extra steps to increase purity for PacBio. **We did not produce enough DNA with this, so in future I would do 8 preps for each sample (instead of 4).**
+Note: This is a very detailed protocol because it is actually just our standard lab protocol x 4 with a couple of extra steps to increase purity for PacBio. **We got good DNA sequence but could have used more DNA, so in future I would do 8 preps for each sample (instead of 4).**
 
 Modified from Promega's protocol for yeast [p13-14](https://www.promega.co.uk/~/media/files/resources/protocols/technical%20manuals/0/wizard%20genomic%20dna%20purification%20kit%20protocol.pdf): 
 
