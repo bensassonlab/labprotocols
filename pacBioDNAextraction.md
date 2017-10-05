@@ -29,10 +29,10 @@ Some of the changes to our standard protocol might have been unnecessary e.g. We
 3.   Add 300µl Promega Nuclei Lysis Solution
 4.   Add 100µl Promega Protein Precipitation Solution. Stir with the pipette tip and pipette up and down to resuspend the pellet. The combination of Protein Precipitation Solution and Nuclei Lysis Solution makes the mixture cloudy (not the pellet or protein).
 5.   Let the sample sit on ice for 5-30 mins
-6.   Centrifuge at high speed for 5 mins
+6.   Centrifuge at high speed for 10 mins
 7.  Carefully pipette the supernatant to a clean 1.5ml microcentrifuge tube containing 300µl Isopropanol. Be careful to avoid the protein pellet and leave some residual liquid to avoid contaminating the DNA solution. 
 8.  Invert the samples 50 times, and a wispy mass might be visible.
-9.  Centrifuge at high speed for 5 mins
+9.  Centrifuge at high speed for 10 mins
 10. Carefully pipette off and discard the supernatant without dislodging the pellet. Drain the tube on clean absorbent paper. At this stage you should see a pellet for all samples except negative controls (if you see a pellet in the negatives, then this is probably not DNA and will be purified away in subsequent steps). If the pellet is dislodged during the removal of the supernatant, respin the sample. You may need to leave some residual liquid in the tube to avoid dislodging the pellet (the pellet after the ethanol wash below will be whiter and less easy to dislodge). 
 11. Add 300ul of room temperature 70% ethanol and gently invert the tube 20 times to wash the DNA pellet.
 12. Centrifuge at 16,162g for 5 mins. Carefully pipette off all the ethanol. Note: the pellet at this stage contains impurities, so the size (or visibility) of the pellet is not an indicator of final yield.
@@ -51,7 +51,7 @@ POOL SAMPLES FOR EACH STRAIN AND REMOVE RNA FROM PURIFIED DNA
 (modified from [Qiagen's protocol, Apendix D](https://www.qiagen.com/us/resources/resourcedetail?id=a9e6a609-4600-4b03-afbd-974318590ce5&lang=en))
 
 I am pretty sure any ethanol precipitation protocol would be fine here. I only used the protocol and "Protein Precipitation Solution" from Qiagen because it was to hand.
-1. DNA extracts were cooled for 15 minutes on ice, spun at high speed for 5 minutes and the supernatants of the four extracts for each strain were pooled in a fresh tube for each strain. This gave a final volume of approximately 180ul for each strain.
+1. DNA extracts were cooled for 15 minutes on ice, spun at high speed for 10 minutes and the supernatants of the four extracts for each strain were pooled in a fresh tube for each strain. This gave a final volume of approximately 180ul for each strain.
 2. Add 20ul (or other amount) of Promega (or Qiagen's) DNA Hydration solution to make the final volume of DNA extract up to 200ul for each strain.
 3. Add 6ul RNase A from Promega (or 3ul RNase A Solution from Qiagen: Cat. no. 19101), mix by pipetting, quick 1 sec vortex and spin. Incubate at 37°C for 1 hour. Transfer to ice.
 4. Add 100ul Promega (or Qiagen) Protein Precipitation Solution (0.5 volume), 400ul 96-100% Ethanol from freezer (2 volumes). 
@@ -61,7 +61,7 @@ I am pretty sure any ethanol precipitation protocol would be fine here. I only u
 8. Add 600ul room temperature 70% ethanol (3 volumes)
 9. Centrifuge at high speed for 3 mins.
 10. Carefully, pipette off and discard supernatant and air dry the pellet for 15 minutes
-11. Resuspend pellet in 200ul Qiagen DNA Hydration Solution (1xTE) by gentle pipetting.
+11. Resuspend pellet in 110ul Qiagen DNA Hydration Solution (1xTE) by gentle pipetting.
 12. Incubation at 37C for 1-1.5 hours to fully dissolve the DNA. 
 13. Quick spin, pipette to mix, 15 minutes at room temperature.
 14. Centrifuge at high speed for 10 mins in order to pellet any impurities that might have precipitated together with the DNA, because the DNA should now be fully dissolved and will no longer form a pellet.
