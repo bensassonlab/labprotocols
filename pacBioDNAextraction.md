@@ -1,5 +1,7 @@
 # DNA extraction protocol for yeast PacBio sequencing
 
+Future improvements: This is a mini-prep kit for DNA extractions from 1.5ml of yeast culture ..  consider using a midi-prep kit for higher yield without needing 8 reactions per strain.
+
 ## Promega's Wizard® Genomic DNA Purification Kit
 
 [Wizard® Genomic DNA Purification Kit](https://www.promega.com/products/dna-purification-quantitation/genomic-dna-purification/wizard-genomic-dna-purification-kit/) (Catalog number: A1125)
@@ -37,7 +39,7 @@ Some of the changes to our standard protocol might have been unnecessary e.g. We
 11. Add 300ul of room temperature 70% ethanol and gently invert the tube 20 times to wash the DNA pellet.
 12. Centrifuge at 16,162g for 5 mins. Carefully pipette off all the ethanol. Note: the pellet at this stage contains impurities, so the size (or visibility) of the pellet is not an indicator of final yield.
 13. Drain the tube on clean absorbent paper, and allow the pellet to air dry for 15 mins.
-14. Add 50µl Promega DNA rehydration solution, and gently resuspend the pellet by pipetting.
+14. Add 25µl Promega DNA rehydration solution, and gently resuspend the pellet by pipetting.
 15. Add 1.5µl of Promega RNase solution (or a 1:2 dilution of the RNase solution from Qiagen i.e. 5.25 units, Qiagen, Cat. no. 19101), and pipette to mix the RNase into each sample. 
 16. Incubate at 37°C for 1-2 hours. Vortex for 1 second, and spin quickly to collect liquid.
 18. Leave at room temperature overnight, then store DNA extracts in the fridge at 2-8°C until ready for ethanol precipitation (could be several days later).
