@@ -26,8 +26,8 @@ All nitrogen sources and amino acids are provided, but the sole carbon source he
 
 10x Sniegowski’s selection plate medium (500ml)\
 100g Methyl-alpha-D-glucopyranoside\
-67g Yeast Nitrogen Base with amino acids and ammonium sulphate\
-40ml 1M Hydrochloric acid
+33.5g Yeast Nitrogen Base with amino acids and ammonium sulphate\
+20ml 1M Hydrochloric acid
 
 to pour Sniegowski’s selection plates: microwave 400ml 2% agar, add 44ml 10x Sniegowski selection plate medium, mix well and pour.
 
