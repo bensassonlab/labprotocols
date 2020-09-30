@@ -10,7 +10,7 @@ We adapted the enrichment medium in Sniegowski et al 2002, by increasing the chl
 ### Sniegowski’s enrichment medium.
 This medium includes 7.6% EtOH, so there is selection against microbes with low tolerance to EtOH (_Saccharomyces cerevisiae_ has high tolerance to EtOH). Chloramphenicol is an antibiotic, which at low concentrations like this inhibits DNA replication of prokaryotic DNA (and only inhibits eukaryotic growth at higher concentrations). As for wine fermentation, the main carbon source is sucrose, and the medium has been made acidic with HCl (lemon or vinegar are often added for home-made wine) because yeast like acidic media. 
 
-Sniegowski’s enrichment medium (1 litre)\
+**Sniegowski’s enrichment medium** (1 litre)\
 3g Yeast Extract\
 3g Malt Extract\
 5g Bacto peptone\
@@ -24,12 +24,14 @@ Filter sterilise. Do not autoclave.
 ### Sniegowski’s selection plates
 All nitrogen sources and amino acids are provided, but the sole carbon source here is methyl-alpha-D-glucopyranoside. _Saccharomyces_ yeasts can usually metabolise methyl-alpha-D-glucopyranoside, so are usually able to grow slowly on these plates, whereas many other microbes cannot. Note however that not all _S. cerevisiae_ yeasts can grow on these plates and in fact the laboratory yeast strain we usually use, an S288C derived strain (BY4743), actually does not grow on these plates.
 
-10x Sniegowski’s selection plate medium (500ml)\
+**10x Sniegowski’s selection plate medium stock** (500ml)\
 100g Methyl-alpha-D-glucopyranoside\
 33.5g Yeast Nitrogen Base with amino acids and ammonium sulphate\
 20ml 1M Hydrochloric acid
 
-to pour Sniegowski’s selection plates: microwave 400ml 2% agar, add 44ml 10x Sniegowski selection plate medium, mix well and pour.
+Filter sterlise. Do not autoclave. Store the stock in the fridge, until ready mix with 2% agar for pouring plates.
+
+To pour Sniegowski’s selection plates: microwave 400ml 2% agar (autoclaved), add 44ml 10x Sniegowski selection plate medium, mix well and pour.
 
 
 ## Equipments/materials:
