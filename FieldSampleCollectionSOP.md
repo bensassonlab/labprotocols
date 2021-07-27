@@ -10,8 +10,8 @@ _Saccharomyces_ yeasts can live in a wide range of environments and we are espec
 **Essentials:**\
 camera\
 GPS\
-7ml tubes (e.g. for bark samples)\
-30ml tubes (e.g. for fig samples)\
+7ml tubes with with blank sticker-labels on (e.g. for bark samples)\
+30ml tubes with blank sticker-labels on (e.g. for fig samples)\
 disposable gloves\
 notebook\
 pen (bic)\
