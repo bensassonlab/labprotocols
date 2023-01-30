@@ -50,8 +50,8 @@ Microscope\
 -80 Freezer\
 Bunsen Burner\
 
-## Health and safety and other precautions
-Gloves should be worn at all times. All field negative controls should be processed the same way as the field samples (even though we expect to see no yeast growing in these). Include positive controls in the lab by inoculating media with the target species to ensure that it can grow in these media.
+## Health and safety and other precautions - Important Please Read!
+Gloves should be worn at all times. All field **negative controls** should be processed the same way as the field samples (even though we expect to see no yeast growing in these). Include **positive controls** in the lab by inoculating media with the target species to ensure that it can grow in these media. If you are reading this and you are in the Bensasson lab then please talk to me about what strains you should be using for your positive controls!
 
 ## Procedure
 Procedure should be followed working under sterile conditions: under a lit flame or in a biosafety cabinet. 
