@@ -38,7 +38,7 @@ To pour Sniegowski’s selection plates: microwave 400ml 2% agar (autoclaved), a
 Sniegowski’s enrichment medium (yeast extract, malt extract, Bacto peptone, sucrose, ethanol, chloramphenicol, Hydrochloric Acid)\
 Sneigowski’s selection plates (Agar, Methyl-alpha-D-glucopyranoside, Yeast nitrogen base with amino acids and ammonium sulfate, Hydrochloric acid)\
 Samples (Elderflower heads, bark chippings, soil, negative controls from field, etc)\
-YPD Plates and YPD ([CSHL recipe](https://cshprotocols.cshlp.org/content/2010/9/pdb.rec12315.full)\)
+YPD Plates and YPD ([CSHL recipe](https://cshprotocols.cshlp.org/content/2010/9/pdb.rec12315.full)) \
 Glycerol\
 Bleach\
 Plastic Tubes\
