@@ -65,7 +65,8 @@ The sample cap should be untightened carefully with the cap wrapped in tissue (t
 
 YPD medium is inoculated with individual colonies or several colonies from the above plates and glycerol is added to a final concentration of 15% and the samples are stored at -80C for processing later.
 
-Plastic tubes containing solid waste and small amounts of media are disposed of (with lids closed) in the biohazard bags for autoclaving. Contaminated media should be disposed of by adding 10% Bleach for 24 hours before flushing down the sink with plenty of water.
+Plastic tubes containing solid waste and small amounts of media are disposed of (with lids closed) in the biohazard bags for autoclaving. Contaminated media should be disposed of by adding fresh bleach (at least 5.25% wt/vol
+sodium hypochlorite) to the waste to reach a final concentration of 10% vol/vol bleach for at least an hour before flushing down the sink with plenty of water. 
 
 ## References
 Sniegowski, P.D., Dombrowski, P.G., Fingerman, E., 2002. Saccharomyces cerevisiae and Saccharomyces paradoxus coexist in a natural woodland site in North America and display different levels of reproductive isolation from European conspecifics. FEMS Yeast Research 1, 299–306.
