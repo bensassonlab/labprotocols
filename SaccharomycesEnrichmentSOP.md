@@ -55,7 +55,7 @@ Gloves should be worn at all times. All field **negative controls** should be pr
 ## Procedure
 Procedure should be followed working under sterile conditions: under a lit flame or in a biosafety cabinet. 
 
-Before and after collecting samples, each tube should be weighted to determine the sample's weight. 
+Before and after collecting samples, each tube should be weighed to determine the sample's weight. 
 
 Tube containing sample (7ml, 15ml, 30ml or 50ml) is filled with Sniegowski’s enrichment medium and the cap is tightened. The tubes are placed in a rack in a heat tolerant plastic box with the lid on, and left standing in a 30C incubator for 10 days to 3 months.  
 
